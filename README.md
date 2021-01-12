@@ -1,7 +1,7 @@
 # mock-server
 A node server for hosting mock json
 
-[![Build Status](https://travis-ci.org/hegedus-adam/mock-server.svg?branch=master)](https://travis-ci.org/hegedus-adam/mock-server.svg?branch=master)
+[![CircleCI Status](https://circleci.com/github/hegedus-adam/mock-server.svg?style=shield)](https://app.circleci.com/pipelines/github/hegedus-adam/mock-server?branch=master)
 [![Coverage Status](https://coveralls.io/repos/github/hegedus-adam/mock-server/badge.svg?branch=master)](https://coveralls.io/github/hegedus-adam/mock-server?branch=master)
 
 ## Available Scripts
