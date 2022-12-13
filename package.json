@@ -4,7 +4,7 @@
   "description": "A node server for hosting mock json",
   "main": "src/index.js",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "devDependencies": {
     "@babel/core": "^7.15.5",
